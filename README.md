@@ -1,0 +1,2 @@
+# Title :- Notepad GUI
+Discription :- A notepad using Tkinter in Python is a simple text editor that allows users to create, edit, and save text files. The notepad is built using Tkinter, a GUI library for Python that makes it easy to create graphical interfaces for desktop applications. The notepad interface is created using Tkinter's widgets such as buttons, labels, and a text box. The buttons represent the various actions such as "Open," "Save," "Cut," "Copy," "Paste," etc. The text box is used to display and edit the contents of the text file.
